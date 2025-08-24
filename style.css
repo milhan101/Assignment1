@@ -106,3 +106,55 @@ button {
   padding-inline-start: 50px;
   padding-inline-end: 50px;
 }
+.new1 {
+  padding-inline-start: 50px;
+}
+.newcard {
+  background-color: white;
+  border-radius: 20px;
+  margin-bottom: 60px;
+}
+
+.sate {
+  border-radius: 20px;
+}
+.five {
+  padding: 50px;
+}
+.six {
+  padding-left: 300px;
+  padding-right: 300px;
+  background-color: white;
+}
+.last {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn2 {
+  color: white;
+  background-color: rgb(12, 84, 12);
+  border: none;
+  width: 200px;
+  margin: 30px;
+  padding: 40px;
+  border-radius: 10px;
+  align-items: center;
+  text-align: center;
+}
+.search {
+  width: 985px;
+  border-radius: 20px;
+  height: 30px;
+  align-items: center;
+  text-align: center;
+}
+.button:hover {
+  background-color: #c6a8a8;
+  color: #174717;
+}
+.btn4:hover {
+  background-color: #ffffff;
+  color: #174717;
+}
