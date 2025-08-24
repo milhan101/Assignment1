@@ -102,3 +102,7 @@ button {
   background-image: url(assets/quote-bg.png);
   background-repeat: no-repeat;
 }
+.new {
+  padding-inline-start: 50px;
+  padding-inline-end: 50px;
+}
