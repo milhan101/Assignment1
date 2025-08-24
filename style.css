@@ -1,0 +1,104 @@
+/** @format */
+
+body {
+  background-color: rgb(245, 242, 238);
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.nav {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  padding-inline-start: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  color: rgb(14, 13, 13);
+  font-size: xx-large;
+}
+h4 {
+  color: rgb(113, 106, 106);
+}
+
+.first {
+  background-color: rgb(175, 206, 167);
+  padding-inline-start: 50px;
+  padding-inline-end: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+}
+button {
+  color: white;
+  background-color: rgb(12, 84, 12);
+  border: none;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+}
+.card {
+  background-color: white;
+  border-radius: 10px;
+  width: 370px;
+  height: 200px;
+  padding: 20px;
+}
+.second {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.exception {
+  padding-top: 50px;
+}
+.three {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card1 {
+  background-color: rgb(182, 198, 220);
+  border-radius: 10px;
+  width: 518px;
+  height: 200px;
+  padding: 20px;
+  padding-bottom: 4rem;
+}
+.card2 {
+  background-color: rgb(237, 193, 193);
+  border-radius: 10px;
+  width: 518px;
+  height: 200px;
+  padding: 20px;
+  transition: transform 0.3s ease;
+  padding-bottom: 4rem;
+}
+.card3 {
+  background-color: rgb(210, 156, 213);
+  border-radius: 10px;
+  width: 518px;
+  height: 200px;
+  padding: 20px;
+  padding-bottom: 4rem;
+}
+.four {
+  margin-top: 50px;
+  padding: 20px 20px 20px 20px;
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid rgb(219, 210, 210);
+}
+.dummy {
+  background-image: url(assets/quote-bg.png);
+  background-repeat: no-repeat;
+}
