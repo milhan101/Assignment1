@@ -187,3 +187,15 @@ form {
   display: flex;
   margin-bottom: 30px;
 }
+.ok {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.haha {
+  margin: 30px;
+}
+.hl {
+  display: flex;
+  justify-content: center;
+}
