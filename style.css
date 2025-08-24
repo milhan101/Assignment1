@@ -125,6 +125,7 @@ button {
   padding-left: 300px;
   padding-right: 300px;
   background-color: white;
+  border-radius: 20px;
 }
 .last {
   display: flex;
@@ -157,4 +158,32 @@ button {
 .btn4:hover {
   background-color: #ffffff;
   color: #174717;
+}
+.seven {
+  background-color: #cadfca;
+  border-radius: 20px;
+}
+.shesh {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 40px;
+  margin-top: 70px;
+  margin-bottom: 200px;
+}
+.butn {
+  border-radius: 0px;
+  margin: 0px;
+}
+.yes {
+  height: 30px;
+  width: 200px;
+}
+.search1 {
+  display: flex;
+}
+form {
+  display: flex;
+  margin-bottom: 30px;
 }
